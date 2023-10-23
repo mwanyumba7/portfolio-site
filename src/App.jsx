@@ -29,7 +29,7 @@ const siteProps = {
   email: "mwanyumbabrayan@gmail.com",
   gitHub: "mwanyumba7",
   instagram: "",
-  linkedIn: "brayan-kai-mwanyumba-7b0b0a1b0",
+  linkedIn: "brayan-mwanyumba-309498227",
   medium: "",
   twitter: "Kai_mwanyumba",
   youTube: "",
