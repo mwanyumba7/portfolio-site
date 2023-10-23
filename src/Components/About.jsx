@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Data Scientist and Technical writer passionate about Communities, Technical Writing and Open Source Advocacy";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Data Science",
+  "Technical Writing",
+  "Python",
+  "Responsible AI Design",
+  "R",
+  "SQL",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Brayan Kai is a Data Scientist Passionate about Communities, Technical Writing and Open-Source Advocacy. He currently volunteers at different developer communities across Africa including Google Crowdsource, Open-Source Community Africa, She Code Africa, PyLadies Ghana and Dev Careers. All this owing to his strong passion for supporting fellow upcoming technologists, women in tech and advocating for inclusion and diversity. He calls this his personal mission. It makes him happier, more balanced, and gives him a stronger sense of purpose to innovate, share, and teach in and with the community rather than just for it.";
 
 const About = () => {
   return (
